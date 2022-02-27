@@ -1,4 +1,4 @@
-package com.aplicacion.proyectosegundoparcial.Models;
+package com.aplicacion.programacionmovil1_ejercicio_21.Models;
 
 public class Usuario{
 

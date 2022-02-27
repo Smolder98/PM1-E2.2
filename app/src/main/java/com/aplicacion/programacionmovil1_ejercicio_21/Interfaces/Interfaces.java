@@ -1,7 +1,9 @@
-package com.aplicacion.proyectosegundoparcial.Interfaces;
+package com.aplicacion.programacionmovil1_ejercicio_21.Interfaces;
 
-import com.aplicacion.proyectosegundoparcial.Models.Usuario;
+import com.aplicacion.programacionmovil1_ejercicio_21.Models.Usuario;
+
 import java.util.List;
+
 import retrofit2.Call;
 import retrofit2.http.GET;
 import retrofit2.http.Path;
